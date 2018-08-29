@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="please_enter_value">Please enter value...</string>
+</resources>
